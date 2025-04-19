@@ -1,13 +1,13 @@
 {
   "stats": {
-    "totalCheckIns": 8207,
+    "totalCheckIns": 8250,
     "maxStreak": 1,
-    "checkInsToday": 628,
-    "lastUpdate": "2025-04-19T08:26:24.135Z"
+    "checkInsToday": 664,
+    "lastUpdate": "2025-04-19T09:21:27.048Z"
   },
   "dailyData": {
     "2025-04-19": {
-      "count": 628,
+      "count": 664,
       "users": [
         "0xb772ad4d6f1accfd91bef9b7775ad1599bd51678",
         "0x8dd275d670e2797a6d4dfca1d5e6ab9dee3ee016",
@@ -636,7 +636,43 @@
         "0x84498bb858ac935ae5e01966792fd70974fb93d3",
         "0xd905eb2533d838552bd49e8f0be6d1323f442ecc",
         "0xa6fda424240cc1694b548f361f50874525589c20",
-        "0xb2b0c5f454dea0d08e47b39f82a06f20905dad90"
+        "0xb2b0c5f454dea0d08e47b39f82a06f20905dad90",
+        "0x0c2ff5cec0d120f599a39a1d969a40411dd73d86",
+        "0x7d0b61474564fdedee5b711b5bc370d636ab6794",
+        "0x0a2d8e5e7620fee7c8911bb7c43ea1c3b030eb53",
+        "0x59139d70ff6908b25c90f07b924ca80c51c43b2d",
+        "0x9ee0204fe6e640a23e0d8a2101a5afa62e29ae43",
+        "0x8c5ef87f3150599685ca43f0f5f03b5edc9285b3",
+        "0x07cf665cc8fc0661708eb10489fded5530e813e4",
+        "0x24cebe99156aa0a32dbf90abb236320fd4b65226",
+        "0x3c67eba59ecdd9b3ee6c69691c92cff3a7440eea",
+        "0x8ceee52a036833ed1032e99b6a072a3598c7cd75",
+        "0xa9cf502c52843a0c4d93cd4a13e02c40fff69531",
+        "0x15a58130043dbae1860e17098854e45cd6b40b84",
+        "0xc9b9fbfa42925b8115b09d3ab68e95d639b76f9f",
+        "0xfa5aa232d9050cef579bf360a03865877975b80c",
+        "0x7fc8f6a2b9da35ee31b332c06a3c7010d5b45400",
+        "0xd0ebb2118483c85ee6a96615919eee2339baebd2",
+        "0x4a4b905fec9b72d47b924e840d3972afc2863f00",
+        "0xee4b8e83bde378647048808619872b4ba4b7e9fa",
+        "0xff9cf120cf05c2e7c033eed82d147dc453b26211",
+        "0x7688048716341966bfbba073b281396235feabc0",
+        "0xe366c6f909cd87deed55519752946876f6d1f1b5",
+        "0xf4be451639e557ac2fb92f7eeddf8698eaa505af",
+        "0xb41920642dae5fe888dc41d59321b70009d028ee",
+        "0x0fe0738f79ff17a9e1899048a7a0b619fa1822d2",
+        "0x4f13ef489ae71630a67094e04b7fcfcbb39ae871",
+        "0x29b2302f1019881adae32e337bb20731c11cb911",
+        "0x8010350beb30a146398192e3ae8de952a989ac5f",
+        "0x571f529cc3d844d61b8bc0ceeecae16d6ffbc34e",
+        "0x8cc8475ccf7f90a866e2a80dfff9b5da5b7d3f91",
+        "0x05409a1113f58d2f5ea00f7d294bd7d384c0da58",
+        "0x87348fe644d0a78d189ca558bb6a843858c3218d",
+        "0xd4b1b1f14da221d9242ee8be536f9d8763433b62",
+        "0xf07c7266a8a05e6ab14ceeda461ceff93921e9da",
+        "0x843a9f086867d62ae0fd3c2e9f8bdcda074ac8ba",
+        "0x0793ef7f8728fb795c4982c7dc1055274169be3c",
+        "0x64d95dff2106c4efbb655675487bf84074f55ca2"
       ]
     }
   },
