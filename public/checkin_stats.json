@@ -1,13 +1,13 @@
 {
   "stats": {
-    "totalCheckIns": 8544,
+    "totalCheckIns": 8568,
     "maxStreak": 1,
-    "checkInsToday": 897,
-    "lastUpdate": "2025-04-19T19:17:54.405Z"
+    "checkInsToday": 920,
+    "lastUpdate": "2025-04-19T20:22:31.675Z"
   },
   "dailyData": {
     "2025-04-19": {
-      "count": 897,
+      "count": 920,
       "users": [
         "0xb772ad4d6f1accfd91bef9b7775ad1599bd51678",
         "0x8dd275d670e2797a6d4dfca1d5e6ab9dee3ee016",
@@ -905,7 +905,30 @@
         "0x79faeacc093eec2eeacdc6767630b043a0106818",
         "0x9119074ac561a16c5e3ff71c3c894b2385517a85",
         "0xa27d76c4475749d55afc637db96b9e4dba91a9ad",
-        "0x36e5e9a2aa23cb06752675a6f18ea609896d62c5"
+        "0x36e5e9a2aa23cb06752675a6f18ea609896d62c5",
+        "0x9a08ef9cf67b800d51a724b143139e66e0d8bc63",
+        "0x53e98eb6f3c47b8698af0ced4149d42c1614d739",
+        "0xd87120aa0e9220948dcc3d207e0b3df2e4ade1b5",
+        "0xa851dc31bdd517cc51fc71664538c96c273ebee0",
+        "0xe5bd41153150758cd1c9085a520145dbbc8290d1",
+        "0x41dbf294c85cff99702f3b3507cff31082927889",
+        "0xf2d8e2a5fc2a66f14b19df5a481aac5ff01eab74",
+        "0x922d12bc61f2c35d6b43cc9908cc20635272f1d0",
+        "0xf5d53a9ee7e2c6a18573ea4ad009be31f941b319",
+        "0xbbf25d34ae9828e0be935a57f0d7872018e8c34c",
+        "0x15cd99e6b1736cccf10e14659d353c98e32bec2e",
+        "0x3b5424992c92cb0dbdcc4f81949df3e7e3599e24",
+        "0xe54a7e7b4021a56baa629deec8634f6abbfc5827",
+        "0x2dd7504c6d9cd7c7fa0f551123a6ecc0f7602665",
+        "0x410e1c00bbe1c4c07991e2af8b2e4398d31627df",
+        "0xa71885755301ac2c99e92c482e3156780c75b3d2",
+        "0x1260245470260ac805fc5d8af56ef5ef5d35f870",
+        "0x5906f9fb6675beaa5f9ae3db7fedbeb0423be321",
+        "0x7c62f2e716d0b591dcbdd8d69d754116e4094448",
+        "0x52e014cd0832544ecf4e6b7e8a2f68fd50b2d109",
+        "0x1efc08226da44d3f3ab50fd681556fd8126b82b5",
+        "0xa7aab1dd0213461f0643fa29db61874eda28b9ee",
+        "0x32c52cc786dc9b919ebb0a14426e3a94fee48154"
       ]
     }
   },
