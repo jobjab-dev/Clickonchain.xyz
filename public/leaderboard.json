@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-18T07:13:21.062Z",
+  "lastUpdate": "2025-06-18T08:17:42.931Z",
   "data": [
     {
       "user": "0x5D05cFc5B225238b0Ec9c86c14f560cF4334f6Cb",
@@ -695,7 +695,7 @@
     },
     {
       "user": "0xE61e74EdDac813d5738Ff19Ecabbd6661958Abc6",
-      "clicks": "712"
+      "clicks": "714"
     },
     {
       "user": "0xAA6b3D95D480Ee0206e141FCaCCE19667f9E4fbf",
@@ -18293,10 +18293,10 @@
   "stats": {
     "totalUsers": 4572,
     "checkIns": {
-      "checkInsToday": 10,
-      "totalCheckIns": 13139,
+      "checkInsToday": 11,
+      "totalCheckIns": 13141,
       "maxStreak": 1
     }
   },
-  "totalCheckIns": 13139
+  "totalCheckIns": 13141
 }
