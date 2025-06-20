@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-20T01:01:10.096Z",
+  "lastUpdate": "2025-06-20T03:11:49.703Z",
   "data": [
     {
       "user": "0x5D05cFc5B225238b0Ec9c86c14f560cF4334f6Cb",
@@ -23,7 +23,7 @@
     },
     {
       "user": "0x4A8827F0dB7C4A9cF4Cc043196F120D560c2A9A6",
-      "clicks": "21876"
+      "clicks": "21934"
     },
     {
       "user": "0xe3fFC4246F7E987687ca4852De0E7b7564FbB6C8",
@@ -79,7 +79,7 @@
     },
     {
       "user": "0x6309A610c05Fc310866f5313f3bCEb1457Ef564C",
-      "clicks": "17827"
+      "clicks": "17952"
     },
     {
       "user": "0xe1145d0eBA8E7CE703eD5826B3C848E1e2c437ca",
@@ -123,7 +123,7 @@
     },
     {
       "user": "0x9046DE77226c18F601bCE7e8f1b9C1152eA263e3",
-      "clicks": "11492"
+      "clicks": "11608"
     },
     {
       "user": "0x1683aD175A796550C954BA44c8D6eAfb3C6B080c",
@@ -139,7 +139,7 @@
     },
     {
       "user": "0xbEebB1337E26B2EaAeA81703Bb82fEA183A279A9",
-      "clicks": "6888"
+      "clicks": "7009"
     },
     {
       "user": "0x0Ce4B16411b408BC9F06d456175DB3CC79b25299",
@@ -147,7 +147,7 @@
     },
     {
       "user": "0xE5324D244bA8DF0e894B45F6e2485e4e0F115F38",
-      "clicks": "6287"
+      "clicks": "6399"
     },
     {
       "user": "0xdBAaCcdd96327Dd96F81156b89fFdd8af3E96d0f",
@@ -4474,6 +4474,10 @@
       "clicks": "80"
     },
     {
+      "user": "0x6FCf7167d2CFc5Ae5417Da87408e0ebbdEa406ED",
+      "clicks": "80"
+    },
+    {
       "user": "0x5AB9125A5a07797432b022E6F9b573f23c34a012",
       "clicks": "80"
     },
@@ -4855,10 +4859,6 @@
     },
     {
       "user": "0x294505b89F9621FB06E93a47aF70847B2484020b",
-      "clicks": "70"
-    },
-    {
-      "user": "0x6FCf7167d2CFc5Ae5417Da87408e0ebbdEa406ED",
       "clicks": "70"
     },
     {
@@ -18297,10 +18297,10 @@
   "stats": {
     "totalUsers": 4573,
     "checkIns": {
-      "checkInsToday": 3,
-      "totalCheckIns": 13222,
+      "checkInsToday": 8,
+      "totalCheckIns": 13227,
       "maxStreak": 1
     }
   },
-  "totalCheckIns": 13222
+  "totalCheckIns": 13227
 }
