@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-27T15:13:04.968Z",
+  "lastUpdate": "2025-06-27T16:15:47.059Z",
   "data": [
     {
       "user": "0x5D05cFc5B225238b0Ec9c86c14f560cF4334f6Cb",
@@ -9186,6 +9186,10 @@
       "clicks": "8"
     },
     {
+      "user": "0xf2C471943666dEAE814C787A5c834E8fc599c70B",
+      "clicks": "8"
+    },
+    {
       "user": "0x319862C994B1e8826CfC433832B3BF4339b65f02",
       "clicks": "7"
     },
@@ -10395,10 +10399,6 @@
     },
     {
       "user": "0x90A69de07ADEEDBA5d2f2D0afdc0f4D9aFFcbA4F",
-      "clicks": "6"
-    },
-    {
-      "user": "0xf2C471943666dEAE814C787A5c834E8fc599c70B",
       "clicks": "6"
     },
     {
