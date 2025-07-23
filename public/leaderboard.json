@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-07-23T03:26:01.978Z",
+  "lastUpdate": "2025-07-23T04:34:45.019Z",
   "data": [
     {
       "user": "0x5D05cFc5B225238b0Ec9c86c14f560cF4334f6Cb",
@@ -1534,19 +1534,19 @@
       "clicks": "282"
     },
     {
+      "user": "0x3A2894642CD0eE6bAFCB3920a447D5DAD2f1c6D3",
+      "clicks": "282"
+    },
+    {
+      "user": "0xc298c36eb5840A4b0e5BFb4145742b198cC9ceD9",
+      "clicks": "281"
+    },
+    {
       "user": "0x9B6bA15D2CEdE10F865d6aF4D29917cE5250F99D",
       "clicks": "281"
     },
     {
-      "user": "0x3A2894642CD0eE6bAFCB3920a447D5DAD2f1c6D3",
-      "clicks": "279"
-    },
-    {
       "user": "0x9A1FBFfD5E111a3BE728A2cF2544eD285a585Dc8",
-      "clicks": "278"
-    },
-    {
-      "user": "0xc298c36eb5840A4b0e5BFb4145742b198cC9ceD9",
       "clicks": "278"
     },
     {
@@ -1586,12 +1586,12 @@
       "clicks": "272"
     },
     {
-      "user": "0xE7171440635EECf3Afb968f91dcD2c14025BE156",
+      "user": "0xb2639B276120f1b47829faa327D08B654e4B8328",
       "clicks": "269"
     },
     {
-      "user": "0xb2639B276120f1b47829faa327D08B654e4B8328",
-      "clicks": "267"
+      "user": "0xE7171440635EECf3Afb968f91dcD2c14025BE156",
+      "clicks": "269"
     },
     {
       "user": "0x7Ef4Fe9552ec3E2DAC5EcE30f5A1BE6d8ccD355F",
@@ -1658,6 +1658,10 @@
       "clicks": "261"
     },
     {
+      "user": "0x2Efb5F477D1e711C58809Ac48228c9d56dFAeC8A",
+      "clicks": "261"
+    },
+    {
       "user": "0x6B3d3c8a8eA9944C63CE8192F66b6a9F1FBe8F2F",
       "clicks": "260"
     },
@@ -1679,10 +1683,6 @@
     },
     {
       "user": "0x657BB522FD24365F0b545Dd8E552fC97C70ECEE4",
-      "clicks": "259"
-    },
-    {
-      "user": "0x2Efb5F477D1e711C58809Ac48228c9d56dFAeC8A",
       "clicks": "259"
     },
     {
@@ -18409,10 +18409,10 @@
   "stats": {
     "totalUsers": 4601,
     "checkIns": {
-      "checkInsToday": 9,
-      "totalCheckIns": 14419,
+      "checkInsToday": 13,
+      "totalCheckIns": 14423,
       "maxStreak": 1
     }
   },
-  "totalCheckIns": 14419
+  "totalCheckIns": 14423
 }
