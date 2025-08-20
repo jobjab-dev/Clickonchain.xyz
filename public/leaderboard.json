@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-08-20T14:12:58.632Z",
+  "lastUpdate": "2025-08-20T15:13:19.783Z",
   "data": [
     {
       "user": "0x4A8827F0dB7C4A9cF4Cc043196F120D560c2A9A6",
@@ -199,7 +199,7 @@
     },
     {
       "user": "0xa443D1F047Ad0F4dcB67105A5b5c9E1313eAc89C",
-      "clicks": "4228"
+      "clicks": "4231"
     },
     {
       "user": "0x2b3cF70D77052Cc4e352d6ebF9CE887B225413f9",
@@ -223,7 +223,7 @@
     },
     {
       "user": "0x11315Cce8f009e4CB4234FFEAF2E860b84E5b0f6",
-      "clicks": "3158"
+      "clicks": "3160"
     },
     {
       "user": "0xf66d4094d0c66fC43494B453008f6853b4A45c89",
@@ -231,7 +231,7 @@
     },
     {
       "user": "0x3d2b1177305fF33E2384F3e059B9dDE10147ABD5",
-      "clicks": "2840"
+      "clicks": "2841"
     },
     {
       "user": "0xd91C176415F3acFe111188e3582809cD2d909Bc9",
@@ -283,7 +283,7 @@
     },
     {
       "user": "0x223c2D5Af8120cAb3c68b5587feC7c8649Ce9c15",
-      "clicks": "2305"
+      "clicks": "2308"
     },
     {
       "user": "0x9d386325330FF9565821232435c67b253776fed9",
@@ -427,7 +427,7 @@
     },
     {
       "user": "0x31b6aAc6220806251c5019077A911fb348590cB4",
-      "clicks": "1801"
+      "clicks": "1803"
     },
     {
       "user": "0x35d63b7FAD3Da2Fb15F75becD5eDC678A0a3f7d3",
@@ -10522,6 +10522,10 @@
       "clicks": "6"
     },
     {
+      "user": "0x68E55A28e38B7D709cE3E7ffaeA77C40602C42a9",
+      "clicks": "6"
+    },
+    {
       "user": "0x95fc9f435Af17b82B86b2080B99a0Ef321FD2484",
       "clicks": "5"
     },
@@ -12447,10 +12451,6 @@
     },
     {
       "user": "0xC6DEE4b9781D3aa6BE94555E12600538D0134Fae",
-      "clicks": "4"
-    },
-    {
-      "user": "0x68E55A28e38B7D709cE3E7ffaeA77C40602C42a9",
       "clicks": "4"
     },
     {
@@ -18417,10 +18417,10 @@
   "stats": {
     "totalUsers": 4603,
     "checkIns": {
-      "checkInsToday": 22,
-      "totalCheckIns": 15232,
+      "checkInsToday": 28,
+      "totalCheckIns": 15238,
       "maxStreak": 1
     }
   },
-  "totalCheckIns": 15232
+  "totalCheckIns": 15238
 }
