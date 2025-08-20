@@ -1,11 +1,11 @@
 {
-  "currentStreak": 2,
+  "currentStreak": 1,
   "maxStreak": 24,
-  "lastCheckIn": "2025-08-10",
-  "totalCheckIns": 42,
+  "lastCheckIn": "2025-08-20",
+  "totalCheckIns": 43,
   "months": {
     "2025-04": 13,
     "2025-05": 27,
-    "2025-08": 2
+    "2025-08": 3
   }
 }
