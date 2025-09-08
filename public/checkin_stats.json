@@ -1,13 +1,13 @@
 {
   "stats": {
-    "totalCheckIns": 15713,
+    "totalCheckIns": 15714,
     "maxStreak": 1,
-    "checkInsToday": 9,
-    "lastUpdate": "2025-09-08T09:15:05.200Z"
+    "checkInsToday": 10,
+    "lastUpdate": "2025-09-08T10:13:34.280Z"
   },
   "dailyData": {
     "2025-09-08": {
-      "count": 9,
+      "count": 10,
       "users": [
         "0x4a8827f0db7c4a9cf4cc043196f120d560c2a9a6",
         "0x6309a610c05fc310866f5313f3bceb1457ef564c",
@@ -17,7 +17,8 @@
         "0xbeebb1337e26b2eaaea81703bb82fea183a279a9",
         "0xe5324d244ba8df0e894b45f6e2485e4e0f115f38",
         "0xe61e74eddac813d5738ff19ecabbd6661958abc6",
-        "0xf66d4094d0c66fc43494b453008f6853b4a45c89"
+        "0xf66d4094d0c66fc43494b453008f6853b4a45c89",
+        "0x9830d6b37fe7488707cc4ad7f8b481d75eb2a8c2"
       ]
     }
   },
